@@ -1,0 +1,9 @@
+project_id = "triple-baton-337806"
+region = "us-central1"
+zone = "us-central1-a"
+zones = ["us-central1-a","us-central1-b","us-central1-c"]
+network = "vignesh-network"
+cluster_name = "k8-app-cluster"
+subnetwork = "vignesh-subnet"
+ip_range_pods_name = "vignesh-pod-range"
+ip_range_services_name = "vignesh-service-range"
